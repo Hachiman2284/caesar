@@ -3,12 +3,12 @@
 
 ## @hachiman2284/caesar
 
-Removes all spaces from a string.
+Returns the caesar cypher of a string when you send it a string and the key.
 
 ## Install
 
 ```
-$ npm install @hachiman2284/caesar
+npm install @hachiman2284/caesar
 ```
 
 ## Usage
@@ -16,11 +16,7 @@ $ npm install @hachiman2284/caesar
 ```js
 const caesar = require("@hachiman2284/caesar");
 
-caesar("So much space!");
+caesar("Hello Sir",14);
 //=> "Somuchspace!"
-
-caesar(1337);
-//=> Uncaught TypeError: Tiny wants a string!
-//    at caesar (<anonymous>:2:41)
-//    at <anonymous>:1:1
+VSZZC GWF
 ```
