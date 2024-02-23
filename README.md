@@ -16,7 +16,6 @@ npm install @hachiman2284/caesar
 ```js
 const caesar = require("@hachiman2284/caesar");
 
-caesar("Hello Sir",14);
-//=> "Somuchspace!"
-VSZZC GWF
+console.log(caesar("Hello Sir",14));
+// VSZZC GWF
 ```
