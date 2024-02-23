@@ -8,7 +8,7 @@ Removes all spaces from a string.
 ## Install
 
 ```
-$ npm install @hachiman2284/tiny
+$ npm install @hachiman2284/caesar
 ```
 
 ## Usage
