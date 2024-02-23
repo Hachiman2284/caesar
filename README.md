@@ -1,6 +1,6 @@
-##README
+#README
 
-# @hachiman2284/caesar
+## @hachiman2284/caesar
 
 Removes all spaces from a string.
 
