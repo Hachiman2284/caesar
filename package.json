@@ -1,0 +1,22 @@
+{
+    "name": "@hachiman2284/caesar",
+    "version": "3.1.1",
+    "dependencies": {
+        "fill-keys": "^1.0.2",
+        "module-not-found-error": "^1.0.0",
+        "resolve": "~1.1.7"
+    },
+    "description": "Caesar cypher",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Hachiman2284/caesar.git"},
+    "main": "index.js",
+    "keywords": [
+        "caesar",
+        "cypher",
+        "npm",
+        "package",
+        "hachiman2284"
+    ]
+}
